@@ -12,6 +12,6 @@ squared
 
 new_numbers = [9,10,16,25]
  def square_array(new_numbers)
-array.collect { |num| num**2 }
+new_numbers.collect { |num| num**2 }
   end
 square_array(new_numbers)
