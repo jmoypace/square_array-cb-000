@@ -17,3 +17,4 @@ new_numbers.collect { |num| puts "#{num**2 } "}
   end
 
 square_array(new_numbers)
+puts new_numbers
