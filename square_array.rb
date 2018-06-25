@@ -8,7 +8,8 @@ end
 squared
 end
 
-def square_array(array)
-
+new_numbers = [9,10,16,25]
+ def square_array(new_numbers)
 array.collect { |num| num**2 }
   end
+square_array(new_numbers)
