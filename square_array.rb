@@ -1,3 +1,4 @@
+=begin
  def square_array(array)
   # your code here
  squared=[]
@@ -6,7 +7,8 @@
 
 end
 squared
-end
+# end
+=end
 
 new_numbers = [9,10,16,25]
  def square_array(new_numbers)
